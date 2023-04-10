@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://blog.naver.com/yeeun_noh">
     <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=blogger&logoColor=white" alt="blog Badge"/>
   </a>
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/gkdms8517@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
 </div>
 
 
