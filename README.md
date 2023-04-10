@@ -18,5 +18,9 @@ Skill 🍀
 -
 <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/>
 
--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh&layout=compact)](https://github.com/yeeun-noh/github-readme-stats)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun-noh&hide=contribs,prs&show_icons=true&theme=graywhite)
