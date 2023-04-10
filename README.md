@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Yeeun%20Noh&fontSize=30)
-
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -24,7 +21,8 @@ Here are some ideas to get you started:
   <a href="https://blog.naver.com/yeeun_noh">
     <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=blogger&logoColor=white" alt="blog Badge"/>
   </a>
-    <img src="https://img.shields.io/badge/gkdms8517@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  <img src="https://img.shields.io/badge/gkdms8517@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=your-github-yeeun-noh&style=flat-square&color=blue" alt=""/>
 </div>
 
 
@@ -48,20 +46,13 @@ Here are some ideas to get you started:
 
 <div align=center>Hi, I am trying to become a nice developer😎</div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-yeeun-noh&style=flat-square&color=blue" alt=""/>
-
-
-
-
-<h2><div align=center>Tech Skills 🍀</div></h2>
-
 <div align=center><img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/></div>
 
 
 
 ---
 
-### : Tech Skills and Tools 🍀
+### : :hammer_and_wrench: Tech Skills and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -75,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-### : Still Learning 
+### : :woman_technologist: Still Learning
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -86,15 +77,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeeun-noh&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh)](https://github.com/yeeun-noh/github-readme-stats)
 
-
-<h2><div align=center>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh&layout=compact)](https://github.com/yeeun-noh/github-readme-stats)
-
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun-noh&hide=contribs,prs&show_icons=true&theme=graywhite)
-</div></h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh&layout=compact)](https://github.com/yeeun-noh/github-readme-stats)
