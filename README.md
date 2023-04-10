@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skill 🍀
+<div align=center>Skill 🍀</div>
 -
 <img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/>
 
