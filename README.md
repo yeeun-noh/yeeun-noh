@@ -80,6 +80,6 @@ I am currently interested in back-end development, and studying hard for this.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeeun-noh&theme=dark&background=000000)](https://git.io/yeeun-noh)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeeun-noh&theme=dark&background=000000)]((https://github.com/yeeun-noh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh&layout=compact)](https://github.com/yeeun-noh/github-readme-stats)
