@@ -38,15 +38,15 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
+Hi, I am trying to become a nice developer😎
 
+I graduated from Seneca College in Toronto, Canada with major in Computer Programming.
 
+I am currently interested in back-end development, and studying hard for this.
 
-
-
-
-<div align=center>Hi, I am trying to become a nice developer😎</div>
-
-<div align=center><img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/></div>
+<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-4B4B77?style=flat&logo=Html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-4B4B77?style=flat&logo=Css&logoColor=white"/>
 
 
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-### : :woman_technologist: Still Learning
+### : :woman_technologist: Still Studying
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -81,7 +81,5 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeeun-noh&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh)](https://github.com/yeeun-noh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh&layout=compact)](https://github.com/yeeun-noh/github-readme-stats)
