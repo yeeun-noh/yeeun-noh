@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   <a href="https://blog.naver.com/yeeun_noh">
-    <img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=blogger&logoColor=white" alt="blog Badge"/>
+    <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white" alt="blog Badge"/>
   </a>
   <img src="https://img.shields.io/badge/gkdms8517@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=your-github-yeeun-noh&style=flat-square&color=blue" alt=""/>
