@@ -1,5 +1,5 @@
 <!--
-**yeeun-noh/yeeun-noh** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+**yeeun-noh/yeeun-noh** is a ✨ _special_✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h2><div align=center>Introduction 🙌</div></h2>
 
 <div align=center>Hi, I am trying to become a nice developer😎</div>
+
+
 
 
 
