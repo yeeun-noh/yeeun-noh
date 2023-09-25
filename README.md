@@ -44,12 +44,6 @@ I graduated from Seneca College in Toronto, Canada with major in Computer Progra
 
 I am currently interested in back-end development, and studying hard for this.
 
-<img src="https://img.shields.io/badge/Java-4B4B77?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Html-4B4B77?style=flat&logo=Html&logoColor=white"/>
-<img src="https://img.shields.io/badge/Css-4B4B77?style=flat&logo=Css&logoColor=white"/>
-
-
-
 ---
 
 ### :hammer_and_wrench: Tech Skills and Tools :
