@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-
+-->
+<!--
 <div id="badges" align="center">
   <a href="https://blog.naver.com/yeeun_noh">
     <img src="https://img.shields.io/badge/My Blog-black?style=for-the-badge&logo=blogger&logoColor=white" alt="blog Badge"/>
@@ -24,18 +24,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/gkdms8517@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=your-github-yeeun-noh&style=flat-square&color=blue" alt=""/>
 </div>
-
-
+-->
+<!--
 <div align="center">
   <h1>Hey there👋</h1>
 </div>
-
+-->
 <!--
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
--->
 
 ### :woman_technologist: About Me :
 Hi, I am trying to become a nice developer😎
@@ -72,10 +71,12 @@ I am currently interested in back-end development, and studying hard for this.
 </div>
 
 ---
+-->
+
 <!--
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeeun-noh&theme=dark&background=000000)]((https://github.com/yeeun-noh))
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun-noh&layout=compact)](https://github.com/yeeun-noh/github-readme-stats)
-
+-->
